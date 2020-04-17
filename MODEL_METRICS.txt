@@ -1,0 +1,9 @@
+Overall Accuracy: 74.35
+Threshold Applied: 0.95
+Accuracy: 93.2
+Coding Rate:36.35
+
+Type: Weighted Average, Macro Average
+F1_score: 0.7468275555128941, 0.7412610891630322
+Precision: 0.7435, 0.7223963964314752
+Recall: 0.7438561992181747, 0.7293539917196937
